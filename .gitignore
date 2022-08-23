@@ -55,7 +55,7 @@ Debug/
 .settings/
 .launches/
 targetConfigs/
-*.cssproject
+*.ccsproject
 *.cproject
 *.project
 .ccsproject
