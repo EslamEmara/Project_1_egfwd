@@ -1,4 +1,4 @@
-# Project_1_egfwd
+# Software PWM
 This Project is created for the egfwd advanced embedded systems track </br>
 Controlling DIO pin ON/OFF time that emulates PWM signal.
 </br>
